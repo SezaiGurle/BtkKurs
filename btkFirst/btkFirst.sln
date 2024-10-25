@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u03_NotHesaplama", "u03_Not
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u04_vki_hesaplama", "u04_vki_hesaplama\u04_vki_hesaplama.csproj", "{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u05_haftanınGünleri", "u05_haftanınGünleri\u05_haftanınGünleri.csproj", "{71E94089-F594-483B-A4F4-3BBC63BBA30B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E94089-F594-483B-A4F4-3BBC63BBA30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E94089-F594-483B-A4F4-3BBC63BBA30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E94089-F594-483B-A4F4-3BBC63BBA30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E94089-F594-483B-A4F4-3BBC63BBA30B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
