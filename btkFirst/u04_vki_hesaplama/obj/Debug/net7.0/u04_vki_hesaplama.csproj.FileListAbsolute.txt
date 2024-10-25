@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\bin\Debug\net7.0\u04_vki_hesaplama.exe
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\bin\Debug\net7.0\u04_vki_hesaplama.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\bin\Debug\net7.0\u04_vki_hesaplama.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\bin\Debug\net7.0\u04_vki_hesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\bin\Debug\net7.0\u04_vki_hesaplama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\refint\u04_vki_hesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\u04_vki_hesaplama.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u04_vki_hesaplama\obj\Debug\net7.0\ref\u04_vki_hesaplama.dll

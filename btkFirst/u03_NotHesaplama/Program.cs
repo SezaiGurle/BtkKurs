@@ -11,4 +11,10 @@ double sonuc = midterm1*0.3 + midterm2*0.3 + final*0.4;
 
 Console.WriteLine("Ortalama =" + sonuc);
 
-Console.Write("Sonuc=" + (sonuc >=70));
+//Console.Write("Sonuc=" + (sonuc >=70));
+
+if(sonuc >=70){
+    Console.WriteLine("Başarili");
+}else{
+    Console.WriteLine("Başarisiz");
+}

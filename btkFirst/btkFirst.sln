@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u01_IlkUygulama", "u01_IlkU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u03_NotHesaplama", "u03_NotHesaplama\u03_NotHesaplama.csproj", "{F94DC20F-3687-4A3B-A691-F56644B2C7D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u04_vki_hesaplama", "u04_vki_hesaplama\u04_vki_hesaplama.csproj", "{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F94DC20F-3687-4A3B-A691-F56644B2C7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94DC20F-3687-4A3B-A691-F56644B2C7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94DC20F-3687-4A3B-A691-F56644B2C7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D433E7-FFF1-4747-BB6B-17ACB7FD2689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "u04_vki_hesaplama/1.0.0": {
+        "runtime": {
+          "u04_vki_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u04_vki_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
