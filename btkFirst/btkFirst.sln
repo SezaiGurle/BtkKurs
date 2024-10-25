@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u07_diziler", "u07_diziler\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u08_metinDizisi", "u08_metinDizisi\u08_metinDizisi.csproj", "{0203E23B-58EC-456C-A247-10AB3D6525EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u09_methıdlar", "u09_methıdlar\u09_methıdlar.csproj", "{A2A3CDF0-9917-4624-A614-1618C5BA54BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A3CDF0-9917-4624-A614-1618C5BA54BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A3CDF0-9917-4624-A614-1618C5BA54BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A3CDF0-9917-4624-A614-1618C5BA54BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A3CDF0-9917-4624-A614-1618C5BA54BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
