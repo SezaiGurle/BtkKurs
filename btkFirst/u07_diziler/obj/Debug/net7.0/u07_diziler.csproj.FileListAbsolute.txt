@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\bin\Debug\net7.0\u07_diziler.exe
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\bin\Debug\net7.0\u07_diziler.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\bin\Debug\net7.0\u07_diziler.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\bin\Debug\net7.0\u07_diziler.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\bin\Debug\net7.0\u07_diziler.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\refint\u07_diziler.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\u07_diziler.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u07_diziler\obj\Debug\net7.0\ref\u07_diziler.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "u07_diziler/1.0.0": {
+        "runtime": {
+          "u07_diziler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u07_diziler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
