@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\bin\Debug\net7.0\u03_NotHesaplama.exe
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\bin\Debug\net7.0\u03_NotHesaplama.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\bin\Debug\net7.0\u03_NotHesaplama.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\bin\Debug\net7.0\u03_NotHesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\bin\Debug\net7.0\u03_NotHesaplama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\refint\u03_NotHesaplama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\u03_NotHesaplama.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u03_NotHesaplama\obj\Debug\net7.0\ref\u03_NotHesaplama.dll

@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\bin\Debug\net7.0\u01_IlkUygulama.exe
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\bin\Debug\net7.0\u01_IlkUygulama.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\bin\Debug\net7.0\u01_IlkUygulama.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\bin\Debug\net7.0\u01_IlkUygulama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\bin\Debug\net7.0\u01_IlkUygulama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\refint\u01_IlkUygulama.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\u01_IlkUygulama.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u01_IlkUygulama\obj\Debug\net7.0\ref\u01_IlkUygulama.dll

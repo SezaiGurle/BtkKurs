@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "u01_IlkUygulama/1.0.0": {
+        "runtime": {
+          "u01_IlkUygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u01_IlkUygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
