@@ -1,0 +1,14 @@
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\bin\Debug\net7.0\u08_metinDizisi.exe
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\bin\Debug\net7.0\u08_metinDizisi.deps.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\bin\Debug\net7.0\u08_metinDizisi.runtimeconfig.json
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\bin\Debug\net7.0\u08_metinDizisi.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\bin\Debug\net7.0\u08_metinDizisi.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.AssemblyInfoInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.AssemblyInfo.cs
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.csproj.CoreCompileInputs.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\refint\u08_metinDizisi.dll
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.pdb
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\u08_metinDizisi.genruntimeconfig.cache
+C:\Users\sezai\OneDrive\Masaüstü\BtkKurs\btkFirst\u08_metinDizisi\obj\Debug\net7.0\ref\u08_metinDizisi.dll

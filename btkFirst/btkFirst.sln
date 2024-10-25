@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u06_loops", "u06_loops\u06_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u07_diziler", "u07_diziler\u07_diziler.csproj", "{F5207748-9F2B-4F17-9C00-CF93D8C0A498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u08_metinDizisi", "u08_metinDizisi\u08_metinDizisi.csproj", "{0203E23B-58EC-456C-A247-10AB3D6525EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F5207748-9F2B-4F17-9C00-CF93D8C0A498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5207748-9F2B-4F17-9C00-CF93D8C0A498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5207748-9F2B-4F17-9C00-CF93D8C0A498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0203E23B-58EC-456C-A247-10AB3D6525EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
