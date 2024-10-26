@@ -8,7 +8,6 @@ class Program
         Console.WriteLine("Sayıları girin (virgülle ayırarak):");
         string input = Console.ReadLine();
 
-        // Kullanıcının girdiği sayıları diziye dönüştür
         int[] sayilar = input.Split(',')
                              .Select(int.Parse)
                              .ToArray();
