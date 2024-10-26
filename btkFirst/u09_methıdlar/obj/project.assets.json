@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sezai\\OneDrive\\Masaüstü\\BtkKurs\\btkFirst\\u09_methıdlar\\u09_methıdlar.csproj",
-      "projectName": "u09_methıdlar",
-      "projectPath": "C:\\Users\\sezai\\OneDrive\\Masaüstü\\BtkKurs\\btkFirst\\u09_methıdlar\\u09_methıdlar.csproj",
+      "projectUniqueName": "C:\\Users\\sezai\\OneDrive\\Masaüstü\\BtkKurs\\btkFirst\\u09_methıdlar\\u09_methodlar.csproj",
+      "projectName": "u09_methodlar",
+      "projectPath": "C:\\Users\\sezai\\OneDrive\\Masaüstü\\BtkKurs\\btkFirst\\u09_methıdlar\\u09_methodlar.csproj",
       "packagesPath": "C:\\Users\\sezai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sezai\\OneDrive\\Masaüstü\\BtkKurs\\btkFirst\\u09_methıdlar\\obj\\",
       "projectStyle": "PackageReference",
